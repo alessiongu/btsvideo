@@ -2,6 +2,14 @@ body {
     margin: 0;
 }
 
+p{
+  color: #7AFB87;
+  mix-blend-mode: difference;
+  position: absolute;
+  margin: 3px;
+  font-family: monospace;
+
+}
 
 body::-webkit-scrollbar {
   display: none;
@@ -19,7 +27,6 @@ body::-webkit-scrollbar {
     background-position: center;
     height: 100vh;
     width: 100vw;
-
 }
 
 
